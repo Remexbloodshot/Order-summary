@@ -20,7 +20,7 @@ body{
     width: 90%;
     height: 30px;
     font-family: 'Red Hat Display', sans-serif;
-    box-shadow: 0px 10px 10px 10px hsl(224, 12%, 59%) ;
+    box-shadow: 0px 10px 10px  hsl(224, 12%, 59%) ;
     margin-bottom: 20px;
     background-color:hsl(245, 75%, 52%);
     border-color: hsl(245, 75%, 52%);
